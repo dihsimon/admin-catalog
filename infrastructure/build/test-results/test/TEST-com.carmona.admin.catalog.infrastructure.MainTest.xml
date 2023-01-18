@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.carmona.admin.catalog.infrastructure.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-18T02:20:17" hostname="DESKTOP-51TM328" time="0.01">
-  <properties/>
-  <testcase name="testMain()" classname="com.carmona.admin.catalog.infrastructure.MainTest" time="0.01"/>
-  <system-out><![CDATA[Hello world!
-com.carmona.admin.catalog.domain.Category@45099dd3
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
